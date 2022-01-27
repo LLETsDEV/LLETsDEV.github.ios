@@ -37,7 +37,7 @@ function App() {
                 py={0.8125}
                 mr={2}
               >
-                Material Design
+                LLets Dev official Website
               </MKTypography>
               <MKButton
                 variant="outlined"
@@ -67,7 +67,7 @@ function App() {
                     Home
                   </MKTypography>
                 </MKBox>
-                <MKBox component="li">
+                {/* <MKBox component="li">
                   <MKTypography
                     component={Link}
                     href="#"
@@ -92,7 +92,7 @@ function App() {
                   >
                     Contact Us
                   </MKTypography>
-                </MKBox>
+                </MKBox> */}
               </MKBox>
               <MKBox
                 component="ul"
@@ -187,7 +187,7 @@ function App() {
                   },
                 })}
               >
-                Material Kit
+                We are LLETs Dev
               </MKTypography>
               <MKTypography
                 variant="body1"
@@ -196,14 +196,14 @@ function App() {
                 pr={6}
                 mr={6}
               >
-                The time is now for it be okay to be great. People in this world
-                shun people for being nice.
+                A software development organization specialized in Digital
+                Transformation using modern technologies.
               </MKTypography>
               <Stack direction="row" spacing={1} mt={3}>
-                <MKButton color="white">Get Started</MKButton>
-                <MKButton variant="text" color="white">
+                <MKButton color="white">Coming soon...</MKButton>
+                {/* <MKButton variant="text" color="white">
                   Read more
-                </MKButton>
+                </MKButton> */}
               </Stack>
             </Grid>
           </Container>
