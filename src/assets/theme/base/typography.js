@@ -20,10 +20,10 @@ Coded by www.creative-tim.com
  */
 
 // Material Kit 2 React Base Styles
-import colors from "../base/colors";
+import colors from "assets/theme/base/colors";
 
 // Material Kit 2 React Helper Functions
-import pxToRem from "../functions/pxToRem";
+import pxToRem from "assets/theme/functions/pxToRem";
 
 const { dark } = colors;
 

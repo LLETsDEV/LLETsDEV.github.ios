@@ -10,15 +10,15 @@ import CssBaseline from "@mui/material/CssBaseline";
 import theme from "./assets/theme";
 
 // Material Kit 2 React components
-import MKBox from "./components/MKBox";
-import MKButton from "./components/MKButton";
-import MKTypography from "./components/MKTypography";
+import MKBox from "components/MKBox";
+import MKButton from "components/MKButton";
+import MKTypography from "components/MKTypography";
 
 // Images
-import bgImage from "./assets/images/bg.jpg";
+import bgImage from "assets/images/bg.jpg";
 
-import logo from "./logo.svg";
-import "./App.css";
+import logo from "logo.svg";
+import "App.css";
 
 function App() {
   return (
