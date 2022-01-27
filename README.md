@@ -1,4 +1,4 @@
-## Available Scripts
+## Getting Started
 
 In the project directory, you can run:
 
@@ -14,8 +14,9 @@ You may also see any lint errors in the console.
 
 To deploy the site run:
 
-´´´´npm run deploy´´´´
-
+```
+npm run deploy
+```
 **Note: this should only be done on "dev" branch**
 
 ## Learn More
